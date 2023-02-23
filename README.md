@@ -1,16 +1,27 @@
-### Hi there 👋
+# Hallo!
+You've just stumbled upon the page of @Reiddragon, a Linux nerd who loves
+starting projects then never finishing them
 
-<!--
-**Reiddragon/Reiddragon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+3rd person speech aside, I'm a Linux nerd and student, mostly interested in doing wacky stuff no one in their right mind would do
 
-Here are some ideas to get you started:
+## btw I use
+- Arch (ofc)
+- [Vim](https://github.com/Reiddragon/vimrc/)
+- KDE Plasma
+- sometimes [Sway](https://github.com/Reiddragon/sway.conf/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Langs I know
+- Python
+- Hy
+- C (and some very basic C++)
+- (some) Bash scripting
+- Pascal
+
+## Langs I want to learn
+- Chicken Scheme
+
+## Projects I'm proud of
+- [ips-patcher.hy](https://github.com/Reiddragon/ips-patcher.hy) - an IPS
+  patcher I wrote in Hy because I really wanted to play some ROM hacks and
+  couldn't find any good patchers that run on Linux
+
