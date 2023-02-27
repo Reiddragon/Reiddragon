@@ -1,8 +1,5 @@
 # Hallo!
-You've just stumbled upon the page of @Reiddragon, a Linux nerd who loves
-starting projects then never finishing them
-
-3rd person speech aside, I'm a Linux nerd and student, mostly interested in doing wacky stuff no one in their right mind would do
+I'm a computer nerd with an interest in Linux, old computers, and wacky tech.
 
 ## btw I use
 - Arch (ofc)
@@ -11,14 +8,13 @@ starting projects then never finishing them
 - sometimes [Sway](https://github.com/Reiddragon/sway.conf/)
 
 ## Langs I know
-- Python
-- Hy
+- Python & Hy
 - C (and some very basic C++)
 - (some) Bash scripting
 - Pascal
 
 ## Langs I want to learn
-- Chicken Scheme
+- Racket
 
 ## Projects I'm proud of
 - [ips-patcher.hy](https://github.com/Reiddragon/ips-patcher.hy) - an IPS
